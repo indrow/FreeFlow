@@ -1,0 +1,15 @@
+Case {
+	Entropy wave
+}
+
+CFL {
+	0.8
+}
+
+T {
+	0.0, 0.2
+}
+
+Scheme {
+	WENOJS 5, Gauss 1, RK 3
+}
